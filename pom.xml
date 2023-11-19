@@ -3,9 +3,7 @@
    <modelVersion>4.0.0</modelVersion>
    <groupId>com.ravi.cal</groupId>
    <artifactId>RaviCalculator</artifactId>
-    <properties>
-        <sonar.sources>src/main/java,src/main/webapp</sonar.sources>
-      </properties>
+
    <version>1.3</version>
    <packaging>jar</packaging>
    <name>RaviCalculator</name>
